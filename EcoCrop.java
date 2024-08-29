@@ -1,6 +1,6 @@
 package EcoCrop;
 import java.util.Scanner;
-public class Mavenproject2 {
+public class EcoCrop {
 
     public static void main(String[] args) {
         Scanner sc=new Scanner (System.in);
